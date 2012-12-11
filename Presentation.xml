@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>BuildingSocialWebApps</Id>
+  <Technologies>
+    <Technology>Visual Studio</Technology>
+    <Technology>ASP.NET MVC</Technology>
+    <Technology>ASP.NET</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://blog.ntotten.com</Blog>
+    <Email>ntotten@microsoft.com</Email>
+    <Name>Nathan Totten</Name>
+  </Author>
+  <Description>
+    What if you could enable users to log into your site using social services like Facebook, Google, Twitter and their Microsoft Account? What if you could create full Facebook applications without having to spend time learning about the Facebook developer platform? You can! ASP.NET now offers great support for social platforms and services, and in this platform you'll learn how to put that new power to work!
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\BuildingSocialWebApps.pptx</Document>
+  <Title>Building a service layer with ASP.NET Web API</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
